@@ -12,6 +12,7 @@ public class GitdemoApplicationTests {
     @Test
     public void contextLoads() {
         System.out.println("gitdemo");
+
         System.out.println("my first gitdemo");
     }
 
