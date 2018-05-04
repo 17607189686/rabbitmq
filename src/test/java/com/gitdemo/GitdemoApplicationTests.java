@@ -11,17 +11,7 @@ public class GitdemoApplicationTests {
 
     @Test
     public void contextLoads() {
-        System.out.println("gitdemo11122234434");
-
-
-
-
-
-
-
-
-
-
+        System.out.println("测试demo");
     }
 
 }
