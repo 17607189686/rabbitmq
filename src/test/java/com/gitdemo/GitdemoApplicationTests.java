@@ -11,7 +11,7 @@ public class GitdemoApplicationTests {
 
     @Test
     public void contextLoads() {
-        System.out.println("测试demo1");
+        System.out.println("测试demo12");
 
     }
 
